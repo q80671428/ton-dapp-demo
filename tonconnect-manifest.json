@@ -1,13 +1,7 @@
 {
   "name": "My TON DApp",
   "description": "TON Connect Demo DApp",
-  "icons": [
-    {
-      "src": "https://raw.githubusercontent.com/q80671428/ton-dapp-demo/main/icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ],
+  "icon": "https://raw.githubusercontent.com/q80671428/ton-dapp-demo/main/icon.png",
   "permissions": [
     "send_transaction",
     "sign_data"
